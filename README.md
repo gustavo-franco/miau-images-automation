@@ -19,7 +19,7 @@ Desenvolvemos um fluxo de trabalho em duas etapas:
 - **rembg[cpu]** (Remoção de fundo baseada em Deep Learning)
 - **Google Gemini API** (Geração de assets)
 
-##Scripts
+## Scripts
 /
 ├── scripts/
 │   └── removedor-de-fundo-img.py    # O código que você rodou
