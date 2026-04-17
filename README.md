@@ -21,8 +21,8 @@ Desenvolvemos um fluxo de trabalho em duas etapas:
 
 ## Scripts
 /
-**├── scripts/
-**│   └── removedor-de-fundo-img.py    # O código que você rodou
-**├── requirements.txt                # Lista das bibliotecas (rembg, pillow)
-**├── .gitignore                      # Para NÃO subir a pasta 'icon' com 1GB de imagens
-**└── README.md                       # A documentação que te mandei
+- **├── scripts/
+- **│   └── removedor-de-fundo-img.py    # O código que você rodou
+- **├── requirements.txt                # Lista das bibliotecas (rembg, pillow)
+- **├── .gitignore                      # Para NÃO subir a pasta 'icon' com 1GB de imagens
+- **└── README.md                       # A documentação que te mandei
